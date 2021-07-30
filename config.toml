@@ -1,0 +1,31 @@
+# Global options
+baseurl = "https://beyond-iid-learning.github.io/"
+title = "Beyond i.i.d. learning:<br> Causality, dynamics, and interactions"
+author = "Timothy Gebhard"
+canonifyurls = true
+languagecode = "en"
+theme = "beyond-iid-learning-theme"
+
+# Options for Markdown renderer
+[markup.goldmark.renderer]
+  hardWraps = true
+  unsafe = true
+  xHTML = true
+
+# Define main menu
+[[menu.main]]
+    name = "Syllabus"
+    url  = "/syllabus"
+    weight = 1
+[[menu.main]]
+    name = "Lectures"
+    url  = "/lectures"
+    weight = 2
+[[menu.main]]
+    name = "Exam"
+    url  = "/exam"
+    weight = 3
+[[menu.main]]
+    name = "FAQ"
+    url  = "/faq"
+    weight = 4
