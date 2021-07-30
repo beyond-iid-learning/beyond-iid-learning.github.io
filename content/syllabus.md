@@ -23,6 +23,6 @@ title: "Syllabus"
 
 **Schedule:** Wednesday 16:15–18:00
 
-**Examination:** Multiple choice exam at the end of the Semester. 5-10 Questions for each lecture.
+**Examination:** Performance assessment (pass/fail) will take place in the last week of the seminar. The details will be announced during the first lecture.
 
 **Teaching Assistants:** Maximilian Mordig, Timothy Gebhard
