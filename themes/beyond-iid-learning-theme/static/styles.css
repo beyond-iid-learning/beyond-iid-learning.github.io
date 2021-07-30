@@ -116,6 +116,15 @@ hr {
 h1 {
 	font-size: 26px;
     text-align: center;
+    margin-bottom: 1em;
+}
+
+h1 a {
+    text-decoration: none !important;
+}
+
+h1 a:hover {
+    text-decoration: underline;
 }
 
 h2 {
@@ -146,6 +155,31 @@ li {
     display: inline;
 }
 
+.lecture-number {
+    font-size: small;
+    color: gray;
+    display: block;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+.lecture-table td:nth-child(1) {
+    font-weight: 600;
+}
+
+.lecture-table td {
+    padding-right: 1em;
+}
+
+#content a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+}
+
+#content a:hover {
+    text-decoration-style: solid;
+}
 
 
 /*  HEADER AND NAVIGATION */

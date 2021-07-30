@@ -1,26 +1,28 @@
 
 <!-- Lecture number and title -->
+<small class="lecture-number">
+    — Lecture {{ .Params.number }} —
+</small>
 <h1>
-    <a href="{{ .RelPermalink }}">Lecture {{ .Params.number }}: {{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
 </h1>
 
 
-<p>
-
-    <!-- Lecturer (including link to their website) -->
-    <h4 class="inline">Lecturer:</h4>
-    {{ range $i, $e := .Params.lecturer }}{{ if $i }}, {{ end }}<a href="{{ .link }}">{{ .name }}</a> ({{ .affiliation }}){{ end }}
-    <br>
-
-    <!-- Date -->
-    <h4 class="inline">Date:</h4>
-    <time datetime="{{ .Params.datetime.date }}">{{ dateFormat "January 2, 2006" .Params.datetime.date  }}</time>
-    <br>
-
-    <!-- Time -->
-    <h4 class="inline">Time:</h4>
-    <time datetime="{{ .Params.datetime.time.start }}">{{ .Params.datetime.time.start }}</time>–<time datetime="{{ .Params.datetime.time.end }}">{{ .Params.datetime.time.end }}</time>
-</p>
+<!-- Lecturer, date and time -->
+<table class="lecture-table">
+    <tr>
+        <td>Lecturer:</td>
+        <td>{{ range $i, $e := .Params.lecturer }}{{ if $i }}, {{ end }}<a href="{{ .link }}">{{ .name }}</a> ({{ .affiliation }}){{ end }}</td>
+    </tr>
+    <tr>
+        <td>Date:</td>
+        <td><time datetime="{{ .Params.datetime.date }}">{{ dateFormat "January 2, 2006" .Params.datetime.date  }}</time></td>
+    </tr>
+    <tr>
+        <td>Time:</td>
+        <td><time datetime="{{ .Params.datetime.time.start }}">{{ .Params.datetime.time.start }}</time>–<time datetime="{{ .Params.datetime.time.end }}">{{ .Params.datetime.time.end }}</time></td>
+    </tr>
+</table>
 
 <!-- Abstract or description of contents -->
 <p>
