@@ -1,17 +1,23 @@
 # Global options
 baseurl = "https://beyond-iid-learning.github.io/"
-title = "Beyond i.i.d. learning:<br> Causality, dynamics, and interactions"
-author = "Timothy Gebhard"
 canonifyurls = true
 languagecode = "en"
 theme = "beyond-iid-learning-theme"
+
+# Params that are used in <head>
+[params]
+  title = "Beyond i.i.d. learning:<br> Causality, dynamics, and interactions"
+  author = "Timothy Gebhard"
+  description = "The seminar highlights challenges that arise due to the interaction of learning algorithms with (dynamic) environments. It will be divided into two parts: The first part summarizes the basics of statistical learning theory, game theory, causal inference, and dynamical systems in four lectures. This sets the stage for the second part, where distinguished speakers will present selected aspects in greater detail and link them to their current research."
+  keywords = ["causal inference", "adaptive decision-making", "reinforcement learning", "game theory", "meta learning", "interactions with humans"]
+
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
   unsafe = true
   xHTML = true
 
-# Define main menu
+# Main menu
 [[menu.main]]
     name = "Syllabus"
     url  = "/syllabus"
