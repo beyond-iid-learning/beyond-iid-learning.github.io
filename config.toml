@@ -8,7 +8,6 @@ theme = "beyond-iid-learning-theme"
 
 # Options for Markdown renderer
 [markup.goldmark.renderer]
-  hardWraps = true
   unsafe = true
   xHTML = true
 
@@ -22,10 +21,6 @@ theme = "beyond-iid-learning-theme"
     url  = "/lectures"
     weight = 2
 [[menu.main]]
-    name = "Exam"
-    url  = "/exam"
-    weight = 3
-[[menu.main]]
     name = "FAQ"
     url  = "/faq"
-    weight = 4
+    weight = 3
