@@ -7,6 +7,8 @@ title: "Syllabus"
 
 **Lecturers:** [Michael Muehlebach](https://sites.google.com/view/mmuehlebach/), [Bernhard Schölkopf](https://www.is.mpg.de/~bs), [Andreas Krause](https://las.inf.ethz.ch/krausea)
 
+**Course code:** [263-5156-00L](http://www.vorlesungsverzeichnis.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=156999&semkez=2021W&ansicht=LEHRVERANSTALTUNGEN&lang=en)
+
 **Abstract:** Many machine learning problems go beyond supervised learning on independent data points and require an understanding of the underlying causal mechanisms, the interactions between the learning algorithms and their environment, and adaptation to temporal changes. The course highlights some of these challenges and relates them to state-of-the-art research.
 
 **Objective:** The goal of this seminar is to gain experience with machine learning research and foster interdisciplinary thinking.
@@ -15,7 +17,7 @@ title: "Syllabus"
 
 **Keywords:**  Causal inference, adaptive decision-making, reinforcement learning, game theory, meta learning, interactions with humans
 
-**Prerequisites:**  BSc in computer science or related field (engineering, physics, mathematics). Passed at least one learning course, such as "Introduction to Machine Learning" or "Probabilistic Artificial Intelligence".
+**Prerequisites:**  B.Sc. in computer science or related field (engineering, physics, mathematics). Passed at least one learning course, such as "Introduction to Machine Learning" or "Probabilistic Artificial Intelligence".
 
 **Number of Credits:** 2 KP
 
