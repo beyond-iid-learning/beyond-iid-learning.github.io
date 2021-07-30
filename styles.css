@@ -18,6 +18,8 @@ body {
 	color: #1d1313;
 	max-width: 768px;
 	margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 p {
@@ -216,12 +218,7 @@ li {
 
 /*  SUPPORT FOR MOBILE */
 
-@media (max-width: 400px) {
-
-    body {
-		padding-left: 20px;
-		padding-right: 20px;
-	}
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
 
     #navigation ul {
         padding: 0;
