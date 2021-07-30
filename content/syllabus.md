@@ -5,7 +5,7 @@ title: "Syllabus"
 
 # Syllabus
 
-**Lecturers:** Michael Muehlebach, Bernhard Schölkopf, Andreas Krause
+**Lecturers:** [Michael Muehlebach](https://sites.google.com/view/mmuehlebach/), [Bernhard Schölkopf](https://www.is.mpg.de/~bs), [Andreas Krause](https://las.inf.ethz.ch/krausea)
 
 **Abstract:** Many machine learning problems go beyond supervised learning on independent data points and require an understanding of the underlying causal mechanisms, the interactions between the learning algorithms and their environment, and adaptation to temporal changes. The course highlights some of these challenges and relates them to state-of-the-art research.
 
@@ -17,12 +17,12 @@ title: "Syllabus"
 
 **Prerequisites:**  BSc in computer science or related field (engineering, physics, mathematics). Passed at least one learning course, such as "Introduction to Machine Learning" or "Probabilistic Artificial Intelligence".
 
-**Number of Credits:** 2KP
+**Number of Credits:** 2 KP
 
-**Scope:** 1.5h Seminar per week
+**Scope:** Seminar (1.5 hours per week)
 
-**Schedule:** Wednesday 16:15–18:00
+**Schedule:** Wednesdays from 16:15–18:00
 
 **Examination:** Performance assessment (pass/fail) will take place in the last week of the seminar. The details will be announced during the first lecture.
 
-**Teaching Assistants:** Maximilian Mordig, Timothy Gebhard
+**Teaching Assistants:** [Maximilian Mordig](http://www.is.mpg.de/person/mmordig), [Timothy Gebhard](https://timothygebhard.com)
