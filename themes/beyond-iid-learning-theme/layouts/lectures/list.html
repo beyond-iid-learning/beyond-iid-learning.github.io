@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ with .Pages }}
+    {{ range $i, $e := sort . ".Params.number" }}
+
+        {{ if $i }}<hr>{{ end }}
+        {{- partial "lecture.html" . -}}
+
+    {{ end }}
+{{ end }}
+
+{{ end }}

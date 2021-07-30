@@ -1,0 +1,47 @@
+
+<!-- Lecture number and title -->
+<h1>
+    <a href="{{ .RelPermalink }}">Lecture {{ .Params.number }}: {{ .Title }}</a>
+</h1>
+
+
+<p>
+
+    <!-- Lecturer (including link to their website) -->
+    <h4 class="inline">Lecturer:</h4>
+    {{ range $i, $e := .Params.lecturer }}{{ if $i }}, {{ end }}<a href="{{ .link }}">{{ .name }}</a> ({{ .affiliation }}){{ end }}
+    <br>
+
+    <!-- Date -->
+    <h4 class="inline">Date:</h4>
+    <time datetime="{{ .Params.datetime.date }}">{{ dateFormat "January 2, 2006" .Params.datetime.date  }}</time>
+    <br>
+
+    <!-- Time -->
+    <h4 class="inline">Time:</h4>
+    <time datetime="{{ .Params.datetime.time.start }}">{{ .Params.datetime.time.start }}</time>–<time datetime="{{ .Params.datetime.time.end }}">{{ .Params.datetime.time.end }}</time>
+</p>
+
+<!-- Abstract or description of contents -->
+<p>
+    <h4>Abstract:</h4>
+    {{ .Content | markdownify }}
+</p>
+
+<!-- List of references -->
+{{ if .Params.references }}
+<p class="references">
+    <h4>References:</h4>
+    <ul>
+    {{ range .Params.references }}
+        <li>
+        {{ if .link }}
+            <a href="{{ .link }}">{{ .name | markdownify }}</a>
+        {{ else }}
+            {{ .name | markdownify }}
+        {{ end }}
+        </li>
+    {{ end }}
+    </ul>
+</p>
+{{ end }}
