@@ -34,13 +34,7 @@
     <h4>References:</h4>
     <ul>
     {{ range .Params.references }}
-        <li>
-        {{ if .link }}
-            <a href="{{ .link }}">{{ .name | markdownify }}</a>
-        {{ else }}
-            {{ .name | markdownify }}
-        {{ end }}
-        </li>
+        <li>{{ . | markdownify }}</li>
     {{ end }}
     </ul>
 </p>
