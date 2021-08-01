@@ -1,4 +1,6 @@
 
+<section>
+
 <!-- Lecture number and title -->
 <small class="lecture-number">
     — Lecture {{ .Params.number }} —
@@ -12,7 +14,17 @@
 <table class="lecture-table">
     <tr>
         <td>Lecturer:</td>
-        <td>{{ range $i, $e := .Params.lecturer }}{{ if $i }}, {{ end }}<a href="{{ .link }}">{{ .name }}</a> ({{ .affiliation }}){{ end }}</td>
+        <td>
+            {{ range $i, $e := .Params.lecturer }}
+                {{- if $i -}}, {{ end }}
+                {{ if $e.link }}
+                    <a href="{{ $e.link }}">{{ $e.name }}</a>
+                {{ else }}
+                    {{ $e.name }}
+                {{ end }}
+                {{ if $e.affiliation }} ({{ $e.affiliation }}){{- end -}}
+            {{ end }}
+        </td>
     </tr>
     <tr>
         <td>Date:</td>
@@ -25,19 +37,21 @@
 </table>
 
 <!-- Abstract or description of contents -->
-<p>
+<section class="abstract">
     <h4>Abstract:</h4>
     {{ .Content | markdownify }}
-</p>
+</section>
 
 <!-- List of references -->
 {{ if .Params.references }}
-<p class="references">
+<section class="references">
     <h4>References:</h4>
     <ul>
     {{ range .Params.references }}
         <li>{{ . | markdownify }}</li>
     {{ end }}
     </ul>
-</p>
+</section>
 {{ end }}
+
+</section>

@@ -2,12 +2,12 @@
 
     <h1><a href="/">{{ .Site.Params.Title | safeHTML }}</a></h1>
     
-    <section id="navigation">
+    <div id="navigation">
         <ul>
         {{ range .Site.Menus.main }}
             <li><strong><a href="{{ .URL }}">{{ .Name }}</a></strong></li>
         {{ end }}
       </ul>
-    </section>
+    </div>
 
 </section>
