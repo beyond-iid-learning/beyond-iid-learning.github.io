@@ -171,15 +171,14 @@ li {
     padding-right: 1em;
 }
 
-#content a {
-    text-decoration: underline;
-    text-decoration-style: dotted;
-    text-underline-offset: 3px;
+.abstract {
+    margin: 0;
 }
 
-#content a:hover {
-    text-decoration-style: solid;
+.references {
+    margin: 0;
 }
+
 
 
 /*  HEADER AND NAVIGATION */
@@ -235,6 +234,15 @@ li {
     padding-bottom: 50px;
 }
 
+#content a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+}
+
+#content a:hover {
+    text-decoration-style: solid;
+}
 
 
 /*  FOOTER */
