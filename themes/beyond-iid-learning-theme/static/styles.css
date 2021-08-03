@@ -179,6 +179,22 @@ li {
     margin: 0;
 }
 
+.announcements-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.announcements-table td:nth-child(1) {
+    width: 15%;
+    text-align: right;
+    font-weight: 600;
+}
+
+.announcements-table td {
+    padding: 0.5em;
+}
+
+
 
 
 /*  HEADER AND NAVIGATION */

@@ -19,14 +19,18 @@ theme = "beyond-iid-learning-theme"
 
 # Main menu
 [[menu.main]]
+    name = "Announcements"
+    url  = "/announcements"
+    weight = 2
+[[menu.main]]
     name = "Syllabus"
     url  = "/syllabus"
-    weight = 1
+    weight = 2
 [[menu.main]]
     name = "Lectures"
     url  = "/lectures"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "FAQ"
     url  = "/faq"
-    weight = 3
+    weight = 4
