@@ -7,9 +7,9 @@ datetime:
         start: 16:15
         end: 18:00
 lecturer: 
-    - name: TBA
-      link: 
-      affiliation: TBA
+    - name: Manuel Gomez Rodriguez
+      link: https://people.mpi-sws.org/~manuelgr/
+      affiliation: MPI-SWS
 references:
 math: false
 ---
