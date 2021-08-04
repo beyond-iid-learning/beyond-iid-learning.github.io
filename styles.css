@@ -185,7 +185,8 @@ li {
 }
 
 .announcements-table td:nth-child(1) {
-    width: 15%;
+    width: 10%;
+    min-width: 50px;
     text-align: right;
     font-weight: 600;
 }
