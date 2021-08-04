@@ -7,7 +7,7 @@ title: "Announcements"
 <table class="announcements-table">
     <tr>
         <td><time datetime="2021-08-03">August 3</time></td>
-        <td>The first meeting (in which we will discuss organizational matters) will take place on September 22, 2021 at 17:30 in <a href="">this Zoom meeting room</a> (registration required).</td>
+        <td>The first meeting (in which we will discuss organizational matters) will take place on September 22, 2021 at 17:30. The Zoom meeting room will be announced a few days in advance.</td>
     </tr>
     <tr>
         <td><time datetime="2021-07-30">July 30</time></td>
