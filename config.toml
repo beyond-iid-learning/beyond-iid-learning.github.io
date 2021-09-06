@@ -3,6 +3,7 @@ baseurl = "https://beyond-iid-learning.xyz"
 canonifyurls = true
 languagecode = "en"
 theme = "beyond-iid-learning-theme"
+disableKinds = ["taxonomyTerm"]
 
 # Params that are used in <head>
 [params]
