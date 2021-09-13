@@ -1,21 +1,17 @@
 ---
 number: 3
-title: A brief overview of dynamics and control
+title: Introduction to Causality
 datetime:
     date: 2021-10-13
     time: 
         start: 16:15
         end: 18:00
 lecturer: 
-    - name: Michael Muehlebach
-      link: https://sites.google.com/view/mmuehlebach/
+    - name: Bernhard Schölkopf
+      link: https://www.is.mpg.de/~bs
       affiliation: MPI-IS
 references:
-    - "Sastry, S. (1999). *Nonlinear Systems: Analysis, Stability, and Control.* New York, NY: Springer New York. ISBN:&nbsp;978-1-4757-3108-8."
-math: true
+math: false
 ---
 
-The lecture will summarize the basics of dynamical systems and control theory. 
-We will discuss discrete-time and continuous-time dynamical systems, introduce the concept of equilibria and Lyapunov stability. 
-An important aspect of the lecture will be to emphasize the difference between noise and structural (epistemic) uncertainty and show how uncertainty can be reduced with feedback. 
-We will also discuss connections to game theory and generalization (Lecture 1).
+TBA
