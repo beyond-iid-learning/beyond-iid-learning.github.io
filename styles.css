@@ -14,7 +14,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
-	line-height: 160%;
+	line-height: 180%;
 	color: #1d1313;
 	max-width: 768px;
 	margin: auto;
@@ -186,7 +186,7 @@ li {
 }
 
 .announcements-table td:nth-child(1) {
-    min-width: 50px;
+    min-width: 70px;
     text-align: right;
     font-weight: 600;
 }
@@ -204,7 +204,7 @@ li {
 	text-align: center;
 	position: static;
 	margin-top: 60px;
-    line-height: 1.1;
+    line-height: 1.4;
 }
 
 #header h1 a {
