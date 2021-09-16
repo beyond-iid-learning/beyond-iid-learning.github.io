@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ .Content }}
+
 {{ with .Pages }}
     {{ range $i, $e := sort . ".Params.number" }}
 
