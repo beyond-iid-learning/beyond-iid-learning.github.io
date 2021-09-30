@@ -10,6 +10,9 @@ lecturer:
     - name: Michael Muehlebach
       link: https://sites.google.com/view/mmuehlebach/
       affiliation: MPI-IS
+material: 
+    name: Notes
+    url: /notes/lecture-01.pdf
 references:
     - "von Luxburg, U., & Schölkopf, B. (2011). *Statistical Learning Theory: Models, Concepts, and Results.* In: *Handbook of the History of Logic, Volume 10: Inductive Logic* (pp. 651–706). Amsterdam: Elsevier. DOI:&nbsp;[10.1016/b978-0-444-52936-7.50016-1](https://doi.org/10.1016/b978-0-444-52936-7.50016-1)." 
 ---
