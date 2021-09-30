@@ -13,6 +13,8 @@ lecturer:
 material: 
     name: Notes
     url: /notes/lecture-01.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/a1ba36a7-b9d9-4d8e-a400-9d5a64da0e86.html
 references:
     - "von Luxburg, U., & Schölkopf, B. (2011). *Statistical Learning Theory: Models, Concepts, and Results.* In: *Handbook of the History of Logic, Volume 10: Inductive Logic* (pp. 651–706). Amsterdam: Elsevier. DOI:&nbsp;[10.1016/b978-0-444-52936-7.50016-1](https://doi.org/10.1016/b978-0-444-52936-7.50016-1)." 
 ---

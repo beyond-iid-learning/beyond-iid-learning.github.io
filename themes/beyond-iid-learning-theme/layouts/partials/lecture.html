@@ -40,6 +40,12 @@
         <td><a href="{{ .Params.material.url }}">Click here to download!</a></td>
     </tr>
     {{ end }}
+    {{ if isset .Params "recording" }}
+    <tr>
+        <td>Recording:</td>
+        <td><a href="{{ .Params.recording.url }}">Click here to view!</a> (only for ETH members)</td>
+    </tr>
+    {{ end }}
 </table>
 
 <!-- Abstract or description of contents -->
