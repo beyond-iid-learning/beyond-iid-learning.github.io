@@ -10,7 +10,7 @@
 </h1>
 
 
-<!-- Lecturer, date and time -->
+<!-- Lecturer, date and time. Also material (notes / slides), if available -->
 <table class="lecture-table">
     <tr>
         <td>Lecturer:</td>
@@ -34,6 +34,12 @@
         <td>Time:</td>
         <td><time datetime="{{ .Params.datetime.time.start }}">{{ .Params.datetime.time.start }}</time>–<time datetime="{{ .Params.datetime.time.end }}">{{ .Params.datetime.time.end }}</time></td>
     </tr>
+    {{ if isset .Params "material" }}
+    <tr>
+        <td>{{ .Params.material.name }}:</td>
+        <td><a href="{{ .Params.material.url }}">Click here to download!</a></td>
+    </tr>
+    {{ end }}
 </table>
 
 <!-- Abstract or description of contents -->
