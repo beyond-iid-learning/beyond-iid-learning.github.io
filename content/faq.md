@@ -16,4 +16,9 @@ For other, more specific questions, please get in touch with [Michael Muehlebach
 
 ## Will the lecture slides / recordings be made available?
 On the condition that the respective lecturer agrees to it, we will make the slides (or notes) of a talk available on the course website.
-The same is true for the lecture recordings, which will be published on the [ETH video portal](https://video.ethz.ch/) (requires a login).
+The same is true for the lecture recordings, which will be published on the [ETH video portal](https://video.ethz.ch/) (requires an ETH login).
+
+## Where can I discuss my questions / thoughts with other participants?
+We have added a [Moodle forum](https://moodle-app2.let.ethz.ch/course/view.php?id=16236) (requires an ETH login) for this purpose.
+Please note that we currently do not plan to monitor this forum regularly.
+This means that if you want an quick answer from a lecturer / TA, you should still contact us directly.
