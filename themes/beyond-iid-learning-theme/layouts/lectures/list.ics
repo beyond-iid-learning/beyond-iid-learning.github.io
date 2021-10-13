@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beyond i.i.d. learning//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Beyond i.i.d. learning
+X-WR-TIMEZONE:Europe/Berlin
+
+{{ $base_url_zoom := "https://zoom.us/j/" }}
+{{ $meeting_id := "62143808058" }}
+
+{{range .Pages -}}
+BEGIN:VEVENT
+SUMMARY:[Beyond i.i.d. learning] Lecture {{ .Params.number }} ({{- .Title | plainify -}})
+DESCRIPTION:Title: {{ .Title | plainify -}}\nLecturer: {{ delimit (apply .Params.lecturer "index" "." "name") ", " }}\n\nAbstract:\n{{- .Content | plainify -}}
+SEQUENCE:0
+STATUS:CONFIRMED
+URL:{{.Permalink}}
+DTSTAMP:{{ now.Format "20060102T150405Z" }}
+LAST-MODIFIED:{{ now.Format "20060102T150405Z" }}
+DTSTART:{{ dateFormat "20060102T150405" .Params.datetime.start }}
+DTEND:{{ dateFormat "20060102T150405" .Params.datetime.end }}
+LOCATION:{{- $base_url_zoom -}}{{- $meeting_id}}
+END:VEVENT
+
+{{end -}}
+END:VCALENDAR
