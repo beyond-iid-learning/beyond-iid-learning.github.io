@@ -2,10 +2,8 @@
 number: 3
 title: Introduction to Causality
 datetime:
-    date: 2021-10-13
-    time: 
-        start: 16:15
-        end: 18:00
+    start: 2021-10-13T16:15:00
+    end: 2021-10-13T18:00:00
 lecturer: 
     - name: Bernhard Schölkopf
       link: https://www.is.mpg.de/~bs

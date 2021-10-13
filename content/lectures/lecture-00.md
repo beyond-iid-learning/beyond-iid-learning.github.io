@@ -2,10 +2,8 @@
 number: 0
 title: Introduction
 datetime:
-    date: 2021-09-22
-    time: 
-        start: 17:30
-        end: 18:00
+    start: 2021-09-22T17:30:00
+    end: 2021-09-22T18:00:00
 lecturer: 
     - name: Bernhard Schölkopf
       link: https://www.is.mpg.de/~bs

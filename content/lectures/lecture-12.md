@@ -2,10 +2,8 @@
 number: 12
 title: TBA
 datetime:
-    date: 2021-12-15
-    time: 
-        start: 16:15
-        end: 18:00
+    start: 2021-12-15T16:15:00
+    end: 2021-12-15T18:00:00
 lecturer: 
     - name: Manuel Gomez Rodriguez
       link: https://people.mpi-sws.org/~manuelgr/

@@ -2,10 +2,8 @@
 number: 5
 title: A brief overview of dynamics and control
 datetime:
-    date: 2021-10-27
-    time: 
-        start: 16:15
-        end: 18:00
+    start: 2021-10-27T16:15:00
+    end: 2021-10-27T18:00:00
 lecturer: 
     - name: Michael Muehlebach
       link: https://sites.google.com/view/mmuehlebach/

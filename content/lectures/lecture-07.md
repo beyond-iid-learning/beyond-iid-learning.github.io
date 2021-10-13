@@ -2,10 +2,8 @@
 number: 7
 title: TBA
 datetime:
-    date: 2021-11-10
-    time: 
-        start: 16:15
-        end: 18:00
+    start: 2021-11-10T16:15:00
+    end: 2021-11-10T18:00:00
 lecturer: 
     - name: Constantinos Daskalakis
       link: http://people.csail.mit.edu/costis/
