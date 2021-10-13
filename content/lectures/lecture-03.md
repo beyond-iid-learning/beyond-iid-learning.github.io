@@ -8,6 +8,9 @@ lecturer:
     - name: Bernhard Schölkopf
       link: https://www.is.mpg.de/~bs
       affiliation: MPI-IS
+material: 
+    name: Slides
+    url: /slides/lecture-03.pdf
 references:
     - Schölkopf, B. et al. (2021). *Towards causal representation learning.* [arXiv:2102.11107](https://arxiv.org/abs/2102.11107).
 math: false
