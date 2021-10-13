@@ -5,6 +5,10 @@ languagecode = "en"
 theme = "beyond-iid-learning-theme"
 disableKinds = ["taxonomyTerm"]
 
+# Render both the HTML and the calendar (ICS file)
+[outputs]
+    section = ["HTML", "Calendar"]
+
 # Params that are used in <head>
 [params]
   title = "Beyond i.i.d. learning:<br> Causality, dynamics, and interactions"
