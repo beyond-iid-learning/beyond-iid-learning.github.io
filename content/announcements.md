@@ -6,6 +6,12 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
+        <td><time datetime="2021-10-13">Oct 13</time></td>
+        <td>
+            You can know subscribe to a calendar for the course using <a href="/lectures/index.ics">this ICS file</a>.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-10-12">Oct 12</time></td>
         <td>
             We have added a <a href="https://moodle-app2.let.ethz.ch/course/view.php?id=16236">Moodle forum</a> where you can discuss with other course participants.
