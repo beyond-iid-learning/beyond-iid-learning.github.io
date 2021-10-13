@@ -28,11 +28,11 @@
     </tr>
     <tr>
         <td>Date:</td>
-        <td><time datetime="{{ .Params.datetime.date }}">{{ dateFormat "January 2, 2006" .Params.datetime.date  }}</time></td>
+        <td><time datetime="{{ .Params.datetime.start }}">{{ dateFormat "January 2, 2006" .Params.datetime.start  }}</time></td>
     </tr>
     <tr>
         <td>Time:</td>
-        <td><time datetime="{{ .Params.datetime.time.start }}">{{ .Params.datetime.time.start }}</time>–<time datetime="{{ .Params.datetime.time.end }}">{{ .Params.datetime.time.end }}</time></td>
+        <td><time datetime="{{ .Params.datetime.start }}">{{ dateFormat "15:04" .Params.datetime.start }}</time>–<time datetime="{{ .Params.datetime.end }}">{{ dateFormat "15:04" .Params.datetime.end }}</time> (Zurich time)</td>
     </tr>
     {{ if isset .Params "material" }}
     <tr>
