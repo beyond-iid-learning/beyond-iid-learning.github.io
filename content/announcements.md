@@ -6,6 +6,18 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
+        <td><time datetime="2021-20-07">Oct 7</time></td>
+        <td>
+            The lecture notes for <a href="/lectures/lecture-04/">lecture 4</a> are now available online.
+        </td>
+    </tr>
+    <tr>
+        <td><time datetime="2021-10-13">Oct 13</time></td>
+        <td>
+            The lecture notes and the recording for <a href="/lectures/lecture-03/">lecture 3</a> are now available online.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-10-13">Oct 13</time></td>
         <td>
             You can know subscribe to a calendar for the course using <a href="/lectures/index.ics">this ICS file</a>.
