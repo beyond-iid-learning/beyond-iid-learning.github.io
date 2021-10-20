@@ -9,7 +9,7 @@ lecturer:
       link: https://sites.google.com/view/mmuehlebach/
       affiliation: MPI-IS
 references:
-    - "Sastry, S. (1999). *Nonlinear Systems: Analysis, Stability, and Control.* New York, NY: Springer New York. ISBN:&nbsp;978-1-4757-3108-8."
+    - "Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering.* 2nd edition. Boca Raton: CRC Press. DOI: [10.1201/9780429492563](https://doi.org/10.1201/9780429492563). **[Chapter 2]**"
 math: true
 ---
 
