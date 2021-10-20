@@ -11,7 +11,7 @@ lecturer:
 material: 
     name: Slides
     url: /slides/lecture-03.pdf
-recordning:
+recording:
     url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/bcffc82a-b9d3-47d6-bc77-37dfab177e7a.html
 references:
     - Schölkopf, B. et al. (2021). *Towards causal representation learning.* [arXiv:2102.11107](https://arxiv.org/abs/2102.11107).
