@@ -8,7 +8,7 @@ title: "Announcements"
     <tr>
         <td><time datetime="2021-20-07">Oct 7</time></td>
         <td>
-            The lecture notes for <a href="/lectures/lecture-04/">lecture 4</a> are now available online.
+            The lecture notes and the recording for <a href="/lectures/lecture-04/">lecture 4</a> are now available online.
         </td>
     </tr>
     <tr>
