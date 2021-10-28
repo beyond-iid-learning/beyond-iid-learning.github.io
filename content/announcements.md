@@ -6,13 +6,19 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
-        <td><time datetime="2021-20-07">Oct 7</time></td>
+        <td><time datetime="2021-10-28">Oct 28</time></td>
+        <td>
+            The lecture notes and the recording for <a href="/lectures/lecture-05/">lecture 5</a> are now available online.
+        </td>
+    </tr>
+    <tr>
+        <td><time datetime="2021-10-21">Oct 21</time></td>
         <td>
             The lecture notes and the recording for <a href="/lectures/lecture-04/">lecture 4</a> are now available online.
         </td>
     </tr>
     <tr>
-        <td><time datetime="2021-10-13">Oct 13</time></td>
+        <td><time datetime="2021-10-14">Oct 14</time></td>
         <td>
             The lecture notes and the recording for <a href="/lectures/lecture-03/">lecture 3</a> are now available online.
         </td>
