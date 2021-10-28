@@ -8,6 +8,11 @@ lecturer:
     - name: Michael Muehlebach
       link: https://sites.google.com/view/mmuehlebach/
       affiliation: MPI-IS
+material:
+    name: Notes
+    url: /notes/lecture-05.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/0116cbcb-dadf-4081-8d30-fa2c3d8e0817.html
 references:
     - "Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering.* 2nd edition. Boca Raton: CRC Press. DOI: [10.1201/9780429492563](https://doi.org/10.1201/9780429492563). **[Chapter 2]**"
 math: true
