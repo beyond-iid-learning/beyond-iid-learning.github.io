@@ -7,7 +7,7 @@ Please check regularly for updates.
 
 ## General information
 
-* Date: Probably on December 22, 2021 (to be confirmed!)
+* Date: December 22, 2021
 * Format: multiple choice
 * Grade: pass/fail
 * As of now, we only plan to offer the exam in person (i.e., no online exam)
