@@ -39,3 +39,7 @@ disableKinds = ["taxonomyTerm"]
     name = "FAQ"
     url  = "/faq"
     weight = 4
+[[menu.main]]
+    name = "Exam"
+    url  = "/exam"
+    weight = 5
