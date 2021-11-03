@@ -1,6 +1,6 @@
 ---
 number: 4
-title: New results in adaptive decision-making
+title: A brief introduction to online learning and bandits
 datetime:
     start: 2021-10-20T16:15:00
     end: 2021-10-20T18:00:00
