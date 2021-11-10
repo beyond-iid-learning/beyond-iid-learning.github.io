@@ -9,8 +9,8 @@
 <meta name=author content="Timothy Gebhard">
 <meta name=description content="The seminar highlights challenges that arise due to the interaction of learning algorithms with (dynamic) environments. It will be divided into two parts: The first part summarizes the basics of statistical learning theory, game theory, causal inference, and dynamical systems in four lectures. This sets the stage for the second part, where distinguished speakers will present selected aspects in greater detail and link them to their current research.">
 <meta name=keywords content="causal inference,adaptive decision-making,reinforcement learning,game theory,meta learning,interactions with humans">
-<title>TBA</title>
-<meta property="og:title" content="TBA">
+<title>Deep learning for the discovery of parsimonious physics models</title>
+<meta property="og:title" content="Deep learning for the discovery of parsimonious physics models">
 <meta property="og:type" content="website">
 <meta property="og:description" content="The seminar highlights challenges that arise due to the interaction of learning algorithms with (dynamic) environments. It will be divided into two parts: The first part summarizes the basics of statistical learning theory, game theory, causal inference, and dynamical systems in four lectures. This sets the stage for the second part, where distinguished speakers will present selected aspects in greater detail and link them to their current research.">
 <meta name=twitter:title content>
@@ -38,7 +38,7 @@
 — Lecture 8 —
 </small>
 <h1>
-<a href=https://beyond-iid-learning.xyz/lectures/lecture-08/>TBA</a>
+<a href=https://beyond-iid-learning.xyz/lectures/lecture-08/>Deep learning for the discovery of parsimonious physics models</a>
 </h1>
 <table class=lecture-table>
 <tr>
@@ -59,7 +59,21 @@
 </table>
 <section class=abstract>
 <h4>Abstract:</h4>
-TBA
+A major challenge in the study of dynamical systems is that of model discovery: turning data into reduced order models that are not just predictive, but provide insight into the nature of the underlying dynamical system that generated the data.
+We introduce a number of data-driven strategies for discovering nonlinear multiscale dynamical systems and their embeddings from data.
+We consider two canonical cases:
+(i) systems for which we have full measurements of the governing variables, and
+(ii) systems for which we have incomplete measurements.
+For systems with full state measurements, we show that the recent sparse identification of nonlinear dynamical systems (SINDy) method can discover governing equations with relatively little data and introduce a sampling method that allows SINDy to scale efficiently to problems with multiple time scales, noise and parametric dependencies.
+For systems with incomplete observations, we show that the Hankel alternative view of Koopman (HAVOK) method, based on time-delay embedding coordinates and the dynamic mode decomposition, can be used to obtain a linear models and Koopman invariant measurement systems that nearly perfectly captures the dynamics of nonlinear quasiperiodic systems.
+Neural networks are used in targeted ways to aid in the model reduction process.
+Together, these approaches provide a suite of mathematical strategies for reducing the data required to discover and model nonlinear multiscale systems.
+</section>
+<section class=references>
+<h4>Recommended reading:</h4>
+<ul>
+<li>Champion, K. et al. (2019). <em>Data-driven discovery of coordinates and governing equations.</em> Proceedings of the National Academy of Sciences, 116(45), 22445–22451. <a href=https://www.pnas.org/content/116/45/22445>DOI:10.1073/pnas.1906995116</a>.</li>
+</ul>
 </section>
 </section>
 </section>
