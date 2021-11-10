@@ -176,6 +176,7 @@ li {
 .abstract {
     margin: 0;
     text-align: justify;
+    hyphens: auto;
 }
 
 .references {
