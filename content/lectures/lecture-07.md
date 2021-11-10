@@ -8,6 +8,9 @@ lecturer:
     - name: Constantinos Daskalakis
       link: http://people.csail.mit.edu/costis/
       affiliation: MIT
+material:
+    name: Slides
+    url: /slides/lecture-07.pdf
 references:
     - "Daskalakis, C. et al. (2018). *Training GANs with Optimism.* [arXiv:1711.00141](https://arxiv.org/abs/1711.00141). **[Pages 1–10].**"
     - "Daskalakis, C. et al. (2020). *The Complexity of Constrained Min-Max Optimization.* [arXiv:2009.09623](https://arxiv.org/abs/2009.09623). **[Pages 1–8; optional!].**"
