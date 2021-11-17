@@ -183,6 +183,10 @@ li {
     margin: 0;
 }
 
+.references ul {
+    padding-top: 0;
+}
+
 .announcements-table {
     width: 100%;
     border-collapse: collapse;
