@@ -6,7 +6,7 @@ datetime:
     end: 2021-11-24T18:00:00
 lecturer: 
     - name: Georg Martius
-      link: http://georg.playfulmachines.com/
+      link: https://www.is.mpg.de/person/gmartius
       affiliation: MPI-IS
 references:
     - "Sahoo, S. et al. (2018). *Learning Equations for Extrapolation and Control*. [arXiv:1806.07259](https://arxiv.org/abs/1806.07259)."
