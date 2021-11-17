@@ -11,6 +11,8 @@ lecturer:
 material:
     name: Slides
     url: /slides/lecture-07.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/83e3cf76-a1fb-41d8-94ed-e6270c2c3008.html
 references:
     - "Daskalakis, C. et al. (2018). *Training GANs with Optimism.* [arXiv:1711.00141](https://arxiv.org/abs/1711.00141). **[Pages 1–10].**"
     - "Daskalakis, C. et al. (2020). *The Complexity of Constrained Min-Max Optimization.* [arXiv:2009.09623](https://arxiv.org/abs/2009.09623). **[Pages 1–8; optional!].**"
