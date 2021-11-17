@@ -12,9 +12,15 @@ title: "Announcements"
         </td>
     </tr>
     <tr>
+        <td><time datetime="2021-11-11">Nov 11</time></td>
+        <td>
+            The lecture slides and the recording for <a href="/lectures/lecture-07/">lecture 7</a> are now available online.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-11-04">Nov 4</time></td>
         <td>
-            The recording for <a href="/lectures/lecture-06/">lecture 6</a> are now available online.
+            The recording for <a href="/lectures/lecture-06/">lecture 6</a> is now available online.
         </td>
     </tr>
     <tr>
@@ -38,7 +44,7 @@ title: "Announcements"
     <tr>
         <td><time datetime="2021-10-14">Oct 14</time></td>
         <td>
-            The lecture notes and the recording for <a href="/lectures/lecture-03/">lecture 3</a> are now available online.
+            The lecture slides and the recording for <a href="/lectures/lecture-03/">lecture 3</a> are now available online.
         </td>
     </tr>
     <tr>
