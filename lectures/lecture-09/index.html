@@ -1,6 +1,6 @@
 <!doctype html><html lang=en><head>
-<meta name=generator content="Hugo 0.89.2">
-<meta name=date content="2021-11-08T15:22:24Z">
+<meta name=generator content="Hugo 0.89.3">
+<meta name=date content="2021-11-15T12:17:46Z">
 <meta charset=utf-8>
 <meta name=HandheldFriendly content="True">
 <meta name=MobileOptimized content="320">
@@ -9,8 +9,8 @@
 <meta name=author content="Timothy Gebhard">
 <meta name=description content="The seminar highlights challenges that arise due to the interaction of learning algorithms with (dynamic) environments. It will be divided into two parts: The first part summarizes the basics of statistical learning theory, game theory, causal inference, and dynamical systems in four lectures. This sets the stage for the second part, where distinguished speakers will present selected aspects in greater detail and link them to their current research.">
 <meta name=keywords content="causal inference,adaptive decision-making,reinforcement learning,game theory,meta learning,interactions with humans">
-<title>TBA</title>
-<meta property="og:title" content="TBA">
+<title>Symbolic regression and equation learning for identifying sparse non‑linear models</title>
+<meta property="og:title" content="Symbolic regression and equation learning for identifying sparse non‑linear models">
 <meta property="og:type" content="website">
 <meta property="og:description" content="The seminar highlights challenges that arise due to the interaction of learning algorithms with (dynamic) environments. It will be divided into two parts: The first part summarizes the basics of statistical learning theory, game theory, causal inference, and dynamical systems in four lectures. This sets the stage for the second part, where distinguished speakers will present selected aspects in greater detail and link them to their current research.">
 <meta name=twitter:title content>
@@ -38,7 +38,7 @@
 — Lecture 9 —
 </small>
 <h1>
-<a href=https://beyond-iid-learning.xyz/lectures/lecture-09/>TBA</a>
+<a href=https://beyond-iid-learning.xyz/lectures/lecture-09/>Symbolic regression and equation learning for identifying sparse non‑linear models</a>
 </h1>
 <table class=lecture-table>
 <tr>
@@ -59,7 +59,25 @@
 </table>
 <section class=abstract>
 <h4>Abstract:</h4>
-TBA
+In classical machine learning, regression is treated as a black box process of identifying a suitable function without attempting to gain insight into the mechanism connecting inputs and outputs.
+In the natural sciences, however, finding an interpretable function for a phenomenon is the prime goal as it allows to understand and generalize results.
+Following the theme of the lecture by Nathan Kutz, we will consider the search for parsimonious models.
+In this lecture we will consider non-linear models represented by concise analytical expressions.
+The problem of finding such expressions is generally called symbolic regression.
+Traditionally, this problem is solved with evolutionary search.
+In recent years, machine learning methods have been proposed for this task. One of the first works in this direction was the &ldquo;equation learner&rdquo; (EQL), which I will cover in some detail.
+Very recently, a different approach was presented that uses pretraining and language models to predict likely equations (NeSymReS).
+I will also talk about this method and compare them.
+An interesting aspect of the search for the most compact description of data is its connection to causal models and the identification of the true underlying relationships.
+In general, prior knowledge is required to make this work, but if successful, we can enjoy great generalization capabilities.
+</section>
+<section class=references>
+<h4>Recommended reading:</h4>
+<ul>
+<li>Sahoo, S. et al. (2018). <em>Learning Equations for Extrapolation and Control</em>. <a href=https://arxiv.org/abs/1806.07259>arXiv:1806.07259</a>.</li>
+<li>Biggio, L. et al. (2021). <em>Neural Symbolic Regression that Scales</em>. <a href=https://arxiv.org/abs/2106.06427>arXiv:2106.06427</a>. <strong>[Optional]</strong></li>
+<li>Project website: <a href=https://al.is.mpg.de/research_projects/equation-learner>Equation Learner for Extrapolation and Control</a> <strong>[Optional]</strong></li>
+</ul>
 </section>
 </section>
 </section>
