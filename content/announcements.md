@@ -6,6 +6,12 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
+        <td><time datetime="2021-11-17">Nov 17</time></td>
+        <td>
+            We updated the practice problems for the first two lectures to include short explanations of the correct answers.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-11-04">Nov 4</time></td>
         <td>
             The recording for <a href="/lectures/lecture-06/">lecture 6</a> are now available online.
