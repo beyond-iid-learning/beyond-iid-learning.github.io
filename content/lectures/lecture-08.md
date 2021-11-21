@@ -8,6 +8,11 @@ lecturer:
     - name: Nathan Kutz
       link: http://faculty.washington.edu/kutz/
       affiliation: University of Washington
+material:
+    name: Slides
+    url: /slides/lecture-08.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/7cb2fe86-fd0f-4c22-9e71-7077da7000dc.html
 references:
     - "Champion, K. et al. (2019). *Data-driven discovery of coordinates and governing equations.* Proceedings of the National Academy of Sciences, 116(45), 22445–22451. [DOI:10.1073/pnas.1906995116](https://www.pnas.org/content/116/45/22445)."
 math: false
