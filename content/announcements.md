@@ -6,6 +6,12 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
+        <td><time datetime="2021-11-25">Nov 25</time></td>
+        <td>
+            The lecture slides and the recording for <a href="/lectures/lecture-09/">lecture 9</a> are now available online.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-11-21">Nov 21</time></td>
         <td>
             The lecture slides and the recording for <a href="/lectures/lecture-08/">lecture 8</a> are now available online.

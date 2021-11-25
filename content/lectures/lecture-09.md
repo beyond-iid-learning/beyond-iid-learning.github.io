@@ -12,6 +12,11 @@ references:
     - "Sahoo, S. et al. (2018). *Learning Equations for Extrapolation and Control*. [arXiv:1806.07259](https://arxiv.org/abs/1806.07259)."
     - "Biggio, L. et al. (2021). *Neural Symbolic Regression that Scales*. [arXiv:2106.06427](https://arxiv.org/abs/2106.06427). **[Optional]**"
     - "Project website: [Equation Learner for Extrapolation and Control](https://al.is.mpg.de/research_projects/equation-learner) **[Optional]**"
+material:
+    name: Slides
+    url: /slides/lecture-09.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/ae8e001a-771b-440b-a581-24f157ad89e7.html
 math: false
 ---
 
