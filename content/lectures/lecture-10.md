@@ -8,6 +8,8 @@ lecturer:
     - name: Dominik Janzing
       link: https://janzing.github.io/
       affiliation: Amazon
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/ace23df3-60a2-4a61-a6eb-9c4484d16c3a.html
 references:
     - "Janzing, D. (2018): *Merging joint distributions via causal model classes with low VC dimension*. [arXiv:1804.03206](https://arxiv.org/abs/1804.03206)."
     - "Garrido Mejia, S. et al. (2021): *Obtaining causal information by merging data sets with MaxEnt.* [arXiv:2107.07640](https://arxiv.org/abs/2107.07640). **[optional]**"
