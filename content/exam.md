@@ -7,11 +7,13 @@ Please check regularly for updates.
 
 ## General information
 
-* Date: December 22, 2021, 16:00–18:00
-* Format: multiple choice
-* Grade: pass/fail
-* As of now, we only plan to offer the exam in person (i.e., no online exam)
-* Please be sure to check the [ETH regulations regarding COVID-19](https://ethz.ch/services/en/news-and-events/coronavirus.html) regularly and comply with the rules
+* Date: December 22, 2021, 16:00–18:00.
+* Location: [HG F 7](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=F&raumNr=7)
+* Format: multiple choice. The questions will cover all of the material, but the focus will be on lectures 1-5. The questions will be similar to the ones published on the course website (see below).
+* No aids / materials (notes, slides, electronic devices, etc.) are allowed.
+* Grade: pass / fail.
+* As of now, we only plan to offer the exam in person (i.e., no online exam).
+* Please be sure to check the [ETH regulations regarding COVID-19](https://ethz.ch/services/en/news-and-events/coronavirus.html) regularly and comply with the rules.
 
 
 
