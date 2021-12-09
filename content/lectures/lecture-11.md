@@ -8,6 +8,11 @@ lecturer:
     - name: Manuel Gomez Rodriguez
       link: https://people.mpi-sws.org/~manuelgr/
       affiliation: MPI-SWS
+material:
+    name: Slides
+    url: /slides/lecture-11.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/71020a0b-bd8a-4e4a-ad1d-8fc142ad550e.html
 references:
     - "Okati, N. et al. (2021): *Differentiable Learning Under Triage*. [arXiv:2103.08902](https://arxiv.org/abs/2103.08902)."
 math: false
