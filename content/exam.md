@@ -23,7 +23,7 @@ To help you prepare for the exam and get a feeling for the type of questions tha
 
 * [Lecture 1 (problems)](/problems/lecture-01-problems.pdf) / [Lecture 1 (solutions)](/problems/lecture-01-solutions.pdf) <span style="color: gray; font-size: small;">[updated November 17]</span>
 * [Lecture 2 (problems)](/problems/lecture-02-problems.pdf) / [Lecture 2 (solutions)](/problems/lecture-02-solutions.pdf) <span style="color: gray; font-size: small;">[updated November 17]</span>
-* [Lecture 3 (problems)](/problems/lecture-03-problems.pdf) / [Lecture 3 (solutions)](/problems/lecture-03-solutions.pdf) <span style="color: gray; font-size: small;">[updated December 6]</span>
+* [Lecture 3 (problems)](/problems/lecture-03-problems.pdf) / [Lecture 3 (solutions)](/problems/lecture-03-solutions.pdf) <span style="color: gray; font-size: small;">[updated December 20]</span>
 * [Lecture 4 (problems)](/problems/lecture-04-problems.pdf) / [Lecture 4 (solutions)](/problems/lecture-04-solutions.pdf)
 * [Lecture 5 (problems)](/problems/lecture-05-problems.pdf) / [Lecture 5 (solutions)](/problems/lecture-05-solutions.pdf) <span style="color: gray; font-size: small;">[updated December 8]</span>
 * [Lecture 6 (problems)](/problems/lecture-06-problems.pdf) / [Lecture 6 (solutions)](/problems/lecture-06-solutions.pdf)
