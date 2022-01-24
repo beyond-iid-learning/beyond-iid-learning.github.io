@@ -11,6 +11,8 @@ lecturer:
 material:
     name: Slides
     url: /slides/lecture-12.pdf
+recording:
+    url: https://video.ethz.ch/lectures/d-infk/2021/autumn/263-5156-00L/fd56f74b-8d6a-4ea9-a73c-093859c8b3ef.html
 references:
     - "Anastasiou, A. et al. (2021): *Stein’s Method Meets Statistics: A Review of Some Recent Developments*. [arXiv:2105.03481](https://arxiv.org/abs/2105.03481). **[Sections 1, 2, 4, and 5]**" 
     - "Gorham, J. and Mackey, L. (2017): *Measuring Sample Quality with Kernels*. [arXiv:1703.01717](https://arxiv.org/abs/1703.01717). **[optional]**"
