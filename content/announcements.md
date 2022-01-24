@@ -6,6 +6,18 @@ title: "Announcements"
 
 <table class="announcements-table">
     <tr>
+        <td><time datetime="2021-12-12">Dec 22</time></td>
+        <td>
+            After today's exam, the seminar is officially finished! Thank you everybody for your participation and happy holidays! :-)
+        </td>
+    </tr>
+    <tr>
+        <td><time datetime="2021-12-16">Dec 16</time></td>
+        <td>
+            The lecture slides and the recording for <a href="/lectures/lecture-12/">lecture 12</a> are now available online.
+        </td>
+    </tr>
+    <tr>
         <td><time datetime="2021-12-09">Dec 9</time></td>
         <td>
             The lecture slides and the recording for <a href="/lectures/lecture-11/">lecture 11</a> are now available online.
