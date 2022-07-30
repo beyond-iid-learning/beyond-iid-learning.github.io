@@ -1,5 +1,5 @@
 # Global options
-baseurl = "https://beyond-iid-learning.xyz"
+baseurl = "https://beyond-iid-learning.github.io"
 canonifyurls = true
 languagecode = "en"
 theme = "beyond-iid-learning-theme"
